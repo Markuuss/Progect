@@ -31,7 +31,48 @@ E:\Работа\Языки программирования\Languages_Programmin
 E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\res\layout\card_view_item.xml
 E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Languages_Programming.dll.mdb
 E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\android\assets\Languages_Programming.dll.mdb
-E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Languages_Programming.dll
+E:\Работа\d\Languages_Programming\obj\Debug\Languages_Programming.dll
+E:\Работа\d\Languages_Programming\obj\Debug\Languages_Programming.pdb
+E:\Работа\d\Languages_Programming\bin\Debug\Languages_Programming.dll
+E:\Работа\d\Languages_Programming\bin\Debug\Languages_Programming.pdb
+E:\Работа\d\Languages_Programming\bin\Debug\Languages_Programming.Languages_Programming.apk
+E:\Работа\d\Languages_Programming\bin\Debug\Languages_Programming.Languages_Programming-Signed.apk
+E:\Работа\d\Languages_Programming\bin\Debug\Xamarin.Android.Arch.Core.Common.dll
+E:\Работа\d\Languages_Programming\bin\Debug\Xamarin.Android.Arch.Lifecycle.Common.dll
+E:\Работа\d\Languages_Programming\bin\Debug\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+E:\Работа\d\Languages_Programming\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Работа\d\Languages_Programming\bin\Debug\Xamarin.Android.Support.Annotations.dll
+E:\Работа\d\Languages_Programming\bin\Debug\Xamarin.Android.Support.Compat.dll
+E:\Работа\d\Languages_Programming\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+E:\Работа\d\Languages_Programming\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+E:\Работа\d\Languages_Programming\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\Работа\d\Languages_Programming\bin\Debug\Xamarin.Android.Support.Fragment.dll
+E:\Работа\d\Languages_Programming\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+E:\Работа\d\Languages_Programming\bin\Debug\Xamarin.Android.Support.Transition.dll
+E:\Работа\d\Languages_Programming\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Работа\d\Languages_Programming\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\Работа\d\Languages_Programming\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Работа\d\Languages_Programming\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Работа\d\Languages_Programming\obj\Debug\Languages_Programming.csproj.CoreCompileInputs.cache
+E:\Работа\d\Languages_Programming\obj\Debug\android\bin\Languages_Programming.Languages_Programming.apk
+E:\Работа\d\Languages_Programming\obj\Debug\res\layout\card_view_item.xml
+E:\Работа\d\Languages_Programming\obj\Debug\res\layout\nav_header.xml
+E:\Работа\d\Languages_Programming\obj\Debug\res\layout\main.xml
+E:\Работа\d\Languages_Programming\obj\Debug\res\values\strings.xml
+E:\Работа\d\Languages_Programming\obj\Debug\res\drawable-hdpi\cplas.png
+E:\Работа\d\Languages_Programming\obj\Debug\res\drawable-mdpi\cplas.png
+E:\Работа\d\Languages_Programming\obj\Debug\res\drawable-xhdpi\cplas.png
+E:\Работа\d\Languages_Programming\obj\Debug\res\drawable-xxhdpi\cplas.png
+E:\Работа\d\Languages_Programming\obj\Debug\res\drawable-xxxhdpi\cplas.png
+E:\Работа\d\Languages_Programming\obj\Debug\res\menu\bottombar_menu.xml
+E:\Работа\d\Languages_Programming\obj\Debug\res\values\color.xml
+E:\Работа\d\Languages_Programming\obj\Debug\res\values\style.xml
+E:\Работа\d\Languages_Programming\obj\Debug\R.cs.flag
+E:\Работа\d\Languages_Programming\obj\Debug\uploadflags.txt
+E:\Работа\d\Languages_Programming\obj\Debug\Languages_Programming.csprojResolveAssemblyReference.cache
+E:\Работа\d\Languages_Programming\bin\Debug\Languages_Programming.dll.mdb
+E:\Работа\d\Languages_Programming\obj\Debug\android\assets\Languages_Programming.dll.mdb
+E:\Работа\d\Languages_Programming\bin\Debug\Languages_Programming.dll
 bin\Debug\Mono.Android.pdb
 bin\Debug\mscorlib.pdb
 bin\Debug\System.Core.pdb

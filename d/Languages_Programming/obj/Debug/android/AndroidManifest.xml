@@ -5,7 +5,7 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:allowBackup="true" android:label="@string/app_name" android:name="android.app.Application" android:debuggable="true">
-    <activity android:label="Languages_Programming" android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:name="md564a5357fa07e18e52ea8309f16fe1f5e.MainActivity">
+    <activity android:label="Languages_Programming" android:theme="@style/Theme.DesignDemo" android:name="md564a5357fa07e18e52ea8309f16fe1f5e.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
