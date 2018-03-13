@@ -1,0 +1,55 @@
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Languages_Programming.dll
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Languages_Programming.pdb
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Languages_Programming.Languages_Programming.apk
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Languages_Programming.Languages_Programming-Signed.apk
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Xamarin.Android.Arch.Core.Common.dll
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Xamarin.Android.Arch.Lifecycle.Common.dll
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Xamarin.Android.Support.Annotations.dll
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Xamarin.Android.Support.Compat.dll
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Xamarin.Android.Support.Fragment.dll
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\Languages_Programming.csproj.CoreCompileInputs.cache
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\Languages_Programming.dll
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\Languages_Programming.pdb
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\android\bin\Languages_Programming.Languages_Programming.apk
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\res\layout\main.xml
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\res\values\strings.xml
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\R.cs.flag
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\uploadflags.txt
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\res\drawable-hdpi\cplas.png
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\res\drawable-mdpi\cplas.png
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\res\drawable-xhdpi\cplas.png
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\res\drawable-xxhdpi\cplas.png
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\res\drawable-xxxhdpi\cplas.png
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\res\layout\card_view_item.xml
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Languages_Programming.dll.mdb
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\obj\Debug\android\assets\Languages_Programming.dll.mdb
+E:\Работа\Языки программирования\Languages_Programming\Languages_Programming\bin\Debug\Languages_Programming.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\Languages_Programming.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
